@@ -13,7 +13,7 @@ const Mesages = () => {
             <span className={styles.steps}>3</span>
         </div>
         <div className={styles.message}>
-            Messages wouold be displayed here gggggggggggggggggggggggggggggggggggggg
+            Messages wouold be displayed here
         </div>
         <div className={styles.btnContainer}>
             <button className={styles.btn}>Previous</button>
