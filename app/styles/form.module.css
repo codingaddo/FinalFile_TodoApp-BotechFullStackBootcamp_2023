@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    gap: 15px;
+   
+}
+
+.input{
+    border-radius: 6px;
+    padding: 8px;
+    border: none;
+    background-color: rgb(217, 227, 227);
+}
+.btn{
+    width: 100px;
+    border-radius: 6px;
+    border: none;
+    background-color: rgb(217, 227, 227);
+    cursor: pointer;
+}
